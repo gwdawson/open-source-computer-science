@@ -2,6 +2,11 @@
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
+| Emoji | Course Status        |
+| ----- | -------------------- |
+| ✅    | Completed course     |
+| ❌    | Course not available |
+
 ## Computer Science Basics
 
 | Courses                                                                                                                                                                       |    School    | Duration |      Effort      |  Frequency   | Prerequisites |
