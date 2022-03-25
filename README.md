@@ -2,18 +2,16 @@
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
-| Emoji | Course Status          |
-| ----- | ---------------------- |
-| ✅    | Completed course       |
-| ✴️    | Working through course |
-| ❌    | Course not available   |
+- [x] ✅ Course completed
+- [x] ✴️ Course in progress
+- [x] 🆘 Course not available
 
 ## Computer Science Basics
 
 | Courses                                                                                                                                                                       |    School    | Duration |      Effort      |  Frequency   | Prerequisites |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :------: | :--------------: | :----------: | :-----------: |
 | ✅ [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                                                 |   Harvard    | 10 weeks | 10-20 hours/week |  self-paced  |     none      |
-| ❌ [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks  |  2-5 hours/week  | once a month |     none      |
+| 🆘 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks  |  2-5 hours/week  | once a month |     none      |
 
 ## Programming
 
