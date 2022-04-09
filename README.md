@@ -1,5 +1,9 @@
 # The Open Source Computer Science Degree
 
+```
+This is my proof of work for many different online courses.
+```
+
 ---
 
 ```
