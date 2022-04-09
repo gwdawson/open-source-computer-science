@@ -4,8 +4,6 @@
 This is my proof of work for many different online courses.
 ```
 
----
-
 ```
 ✅ completed
 🈸 in progress
@@ -99,5 +97,7 @@ Unix                         | College | Prerequisites | Link
 🆘 Linux Command Line Basics | Udacity | None          | https://www.udacity.com/course/linux-command-line-basics--ud595
 🆘 The Unix Workbench        | JHU     | None          | https://www.coursera.org/learn/unix
 ```
+
+---
 
 See [ForrestKnight](https://github.com/ForrestKnight) for the original GitHub repositories [open-source-cs](https://github.com/ForrestKnight/open-source-cs) and [open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python).
