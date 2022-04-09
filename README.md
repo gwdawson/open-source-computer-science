@@ -34,6 +34,27 @@ Programming in Java                                     | College | Prerequisite
 ```
 
 ```
+Programming in Python                                                 | College                | Prerequisites                                           | Link
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🆘 Programming for Everybody (Getting Started with Python)            | University of Michigan | None                                                    | https://www.coursera.org/learn/python
+🆘 Python Data Structures                                             | University of Michigan | Programming for Everybody (Getting Started with Python) | https://www.coursera.org/learn/python-data
+🆘 Using Python to Access Web Data                                    | University of Michigan | Python Data Structures                                  | https://www.coursera.org/learn/python-network-data
+🆘 Using Databases with Python                                        | University of Michigan | Using Python to Access Web Data                         | https://www.coursera.org/learn/python-databases
+🆘 Capstone: Retrieving, Processing, and Visualizing Data with Python | University of Michigan | Using Databases with Python                             | https://www.coursera.org/learn/python-data-visualization
+🆘 Python 3 Programming Specialization                                | University of Michigan | None                                                    | https://www.coursera.org/specializations/python-3-programming
+```
+
+```
+Data Science                                                  | College                  | Prerequisites                                              | Link
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🆘 Introduction to Data Science in Python                     | University of Michigan	 | Basic programming knowledge                                | https://www.coursera.org/learn/python-data-analysis
+🆘 Applied Plotting, Charting & Data Representation in Python | University of Michigan	 | Introduction to Data Science in Python                     | https://www.coursera.org/learn/python-plotting
+🆘 Applied Machine Learning in Python                         | University of Michigan	 | Applied Plotting, Charting & Data Representation in Python | https://www.coursera.org/learn/python-machine-learning
+🆘 Applied Text Mining in Python                              | University of Michigan	 | Applied Machine Learning in Python                         | https://www.coursera.org/learn/python-text-mining
+🆘 Applied Social Network Analysis in Python                  | University of Michigan	 | Applied Text Mining in Python                              | https://www.coursera.org/learn/python-social-network-analysis
+```
+
+```
 Math                                                 | College   | Prerequisites                | Link
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🈸 Precalculus                                       | ASU       | None                         | https://www.edx.org/course/precalculus
