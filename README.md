@@ -1,16 +1,10 @@
-# The Open Source Computer Science Degree
-
-```
-This is my proof of work for many different online courses.
-```
+# Open Source Computer Science Degree
 
 ```
 ✅ completed
 🈸 in progress
 🆘 not started
 ```
-
----
 
 ```
 Computer Science Basics                      | College      | Prerequisites | Link
